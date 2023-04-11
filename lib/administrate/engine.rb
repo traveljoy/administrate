@@ -1,6 +1,6 @@
 require "jquery-rails"
 require "kaminari"
-require "dartsass-sprockets"
+require "dartsass-rails"
 require "selectize-rails"
 require "sprockets/railtie"
 
